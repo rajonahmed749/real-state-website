@@ -8,7 +8,7 @@ function Layout({ children }) {
     return (
         <>
             <Head>
-                <title>Real + Estate</title>
+                <title>RealXstate</title>
             </Head>
             <Box maxWidth='1280px' m='auto'>
                 <header>
